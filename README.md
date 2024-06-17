@@ -64,7 +64,7 @@ The project includes comprehensive visualizations created using Tableau, based o
 - **Deadline:** `Specific to Project Timeline`
 - **Team:** `Accenture-Brussels and Dragonyte Brewery`
 
-## Mission Objectives <a name="mission-objectives"></a>
+## 🎯 Mission Objectives <a name="mission-objectives"></a>
 
 - Consolidate your knowledge in SQL:
   - SELECT operations
@@ -75,20 +75,20 @@ The project includes comprehensive visualizations created using Tableau, based o
 
 - Implement Agile/Scrum methodology.
 
-## Learning Objectives <a name="learning-objectives"></a>
+## 🎓 Learning Objectives <a name="learning-objectives"></a>
 
 - Read and understand a SQL database diagram.
 - Query a SQL database efficiently.
 - Create visuals from aggregated insights using Tableau.
 - Present a market analysis with clear numbers and graphs.
 
-## The Mission <a name="the-mission"></a>
+## 🚀 The Mission <a name="the-mission"></a>
 
 We are the Dragonyte Brewery, actively working to improve our market position. 
 We want to understand the market better by analyzing our gathered data. 
 Do the analysis, summarize your output, and present the results.
 
-## Must-have Features <a name="must-have-features"></a>
+## ✔️ Must-have Features <a name="must-have-features"></a>
 
 1. Highlight the fastest growing product categories/subcategories and explain why.
 2. Recommend channels to focus on based on growth trends.
@@ -96,25 +96,25 @@ Do the analysis, summarize your output, and present the results.
 4. Provide predictive analytics on future trends.
 5. Create a strategic plan for increasing future revenues.
 
-## Nice-to-have Features <a name="nice-to-have-features"></a>
+## 👍 Nice-to-have Features <a name="nice-to-have-features"></a>
 
 - Optimize SQL queries for performance.
 - Suggest improvements for data quality, schema, or typing.
 - Implement best practices in data visualization.
 
-## Constraints <a name="constraints"></a>
+## ⚠️ Constraints <a name="constraints"></a>
 
 - Use SQL only for data analysis.
 - Write queries in `.sql` files or a `queries.py` file.
 
-## Deliverables <a name="deliverables"></a>
+## 📦 Deliverables <a name="deliverables"></a>
 
 1. Publish source code in a GitHub repository.
 2. Include main insights in the README file.
 3. Present results in a nice presentation format.
 4. Deliver a Tableau dashboard.
 
-## Steps <a name="steps"></a>
+## 📝 Steps <a name="steps"></a>
 
 1. Create the repository.
 2. Study the project brief.
@@ -124,7 +124,7 @@ Do the analysis, summarize your output, and present the results.
 6. Create a presentation with findings.
 7. Clean the code and finalize the repository.
 
-## Maintainers <a name="maintainers"></a>
+## 👷‍♂️ Maintainers <a name="maintainers"></a>
 
 Questions or updates contact [Cryptui](https://github.com/Cryptui).
 
